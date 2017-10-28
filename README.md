@@ -1,1 +1,2 @@
-Adds Two elements from Google sheet
+Adds Two elements from Google sheet.
+It is fun.
